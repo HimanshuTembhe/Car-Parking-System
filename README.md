@@ -34,3 +34,6 @@ The circuit successfully detects obstacles within a 25 cm range and triggers the
 
 ## Conclusion
 This Car Parking Safety Circuit is a cost-effective solution to prevent collisions while parking. By detecting obstacles and providing both visual and auditory alerts, it helps drivers maneuver safely in tight spaces.
+
+# Drive link for full report : 
+https://docs.google.com/document/d/1TPoOb_7knnq5W0-QOaF05NVTtO7BuBGdpPtBWsKMObM/edit?usp=sharing
